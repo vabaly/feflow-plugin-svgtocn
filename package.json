@@ -16,5 +16,18 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.12.0",
     "eslint-config-ivweb": "^0.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-solar/feflow-plugin-svgtocn.git"
+  },
+  "keywords": [
+    "feflow",
+    "feflow-plugin",
+    "termtosvg"
+  ],
+  "bugs": {
+    "url": "https://github.com/i-solar/feflow-plugin-svgtocn/issues"
+  },
+  "homepage": "https://github.com/i-solar/feflow-plugin-svgtocn#readme"
 }
